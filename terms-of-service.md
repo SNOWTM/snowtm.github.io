@@ -1,6 +1,6 @@
 ### Terms of Service
 
-Updated at 29 September 2023.
+Updated at 22 January 2026.
 
 
 # EscapePrisonArena  hereby grants you access to  (“the Website”) and invites you to purchase the services offered here.
