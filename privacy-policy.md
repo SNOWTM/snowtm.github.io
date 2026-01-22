@@ -45,4 +45,4 @@ You have the right to access information held about you. Your right of access ca
 ### 12. CHANGES TO OUR PRIVACY POLICY
 From time to time we make changes to our Privacy Policy, and any changes that we may in the future make, will be published on this page, and if applicable, you will receive a notification by e-mail or otherwise.
  «SnowTeams»
-Last update: 29 september 2023.
+Last update: 22 January 2026.
