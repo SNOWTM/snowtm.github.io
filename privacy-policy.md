@@ -1,7 +1,7 @@
 We important the security of your personal data. Privacy Policy is designed to ensure that your data is protected when you use or visit any game, app, or other digital content «Madness Games» («Services»).
 Using our Services, you consent to the collection and processing of your personal data in accordance with our Privacy Policy. If you do not agree with the terms of this Privacy Policy please do not provide us with any information and do not use the Services.
 This Privacy Policy sets out the rules under which we process any personal data we collect from you or that you provide to us through the Services.
-In the Privacy Policy, the terms «Madness Games», «we», «our», «us» means the company «Madness Games», and «you» or «your» means you as user of our Services.
+In the Privacy Policy, the terms «Madness Games», «we», «our», «us» means the company «SnowTeams», and «you» or «your» means you as user of our Services.
 ### 1. THE PERSONAL INFORMATION WE MAY COLLECT
 1.1 We may collect and process the following data about you:
 1.1.1 the data you submit when registering for our Services;
@@ -39,10 +39,10 @@ Our Services may contain links to other sites and services, as well as leading t
 8.4 You are responsible to us for all orders or transactions made using your user ID and password even if such use might be wrongful. We accept no liability to you for any damage you may receive as a result of misuse of your user ID and password, and we assume no liabilities arising out of such illegal use, as fraudulent, and for other purposes.
 ### 9. YOUR RIGHTS
 You have the right to send us a request to cease using your personal data for marketing, analytical or other purposes.
-You can opt out of collection of your information by contacting us at: kkresh95dev@gmail.com.
+You can opt out of collection of your information by contacting us at: rustamroyale99@gmail.com.
 ### 10. DATA ACCESS
-You have the right to access information held about you. Your right of access can be exercised in accordance with the Law of the Russian Federation on legal protection of personal data. Any access request may be subject to a small administrative fee to meet our costs in providing you with details of the information we hold about you. For more information contact us at: kkresh95dev@gmail.com.
+You have the right to access information held about you. Your right of access can be exercised in accordance with the Law of the Russian Federation on legal protection of personal data. Any access request may be subject to a small administrative fee to meet our costs in providing you with details of the information we hold about you. For more information contact us at: rustamroyale99@gmail.com.
 ### 12. CHANGES TO OUR PRIVACY POLICY
 From time to time we make changes to our Privacy Policy, and any changes that we may in the future make, will be published on this page, and if applicable, you will receive a notification by e-mail or otherwise.
- «MadnessGames»
+ «SnowTeams»
 Last update: 29 september 2023.
