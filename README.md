@@ -1,4 +1,4 @@
-## Welcome to the Madness Games webpage
+## Welcome to the SnowTeam webpage
 
 On this page are the games of our game studio
 
