@@ -1,4 +1,4 @@
-We important the security of your personal data. Privacy Policy is designed to ensure that your data is protected when you use or visit any game, app, or other digital content «Madness Games» («Services»).
+We important the security of your personal data. Privacy Policy is designed to ensure that your data is protected when you use or visit any game, app, or other digital content «SnowTeams» («Services»).
 Using our Services, you consent to the collection and processing of your personal data in accordance with our Privacy Policy. If you do not agree with the terms of this Privacy Policy please do not provide us with any information and do not use the Services.
 This Privacy Policy sets out the rules under which we process any personal data we collect from you or that you provide to us through the Services.
 In the Privacy Policy, the terms «Madness Games», «we», «our», «us» means the company «SnowTeams», and «you» or «your» means you as user of our Services.
