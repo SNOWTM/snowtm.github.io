@@ -42,7 +42,7 @@ You have the right to send us a request to cease using your personal data for ma
 You can opt out of collection of your information by contacting us at: rustamroyale99@gmail.com.
 ### 10. DATA ACCESS
 You have the right to access information held about you. Your right of access can be exercised in accordance with the Law of the Russian Federation on legal protection of personal data. Any access request may be subject to a small administrative fee to meet our costs in providing you with details of the information we hold about you. For more information contact us at: rustamroyale99@gmail.com.
-### 12. CHANGES TO OUR PRIVACY POLICY
+### 11. CHANGES TO OUR PRIVACY POLICY
 From time to time we make changes to our Privacy Policy, and any changes that we may in the future make, will be published on this page, and if applicable, you will receive a notification by e-mail or otherwise.
  «SnowTeams»
 Last update: 22 January 2026.
